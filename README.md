@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Sarah Faleh 👋
 
-<!--
-**sarah-falehh/sarah-falehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Software Engineering Student at ESPRIT School of Engineering
 
-Here are some ideas to get you started:
+🤖 Specializing in Data Science & Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building intelligent systems that combine Artificial Intelligence, Machine Learning and Software Engineering to solve real-world problems.
+
+My interests include:
+
+- 🧠 Generative AI & LLMs
+- 🤖 Machine Learning
+- 📊 Data Science & Analytics
+- ⚙️ MLOps
+- 🌐 Backend Development
+- 📈 Data Engineering
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • SQL • Java • C++ • R
+
+**AI & Machine Learning**
+
+PyTorch • TensorFlow • Scikit-learn • XGBoost
+
+**Generative AI**
+
+Llama • RAG • ChromaDB • Ollama • Prompt Engineering
+
+**Backend**
+
+FastAPI • Flask • REST APIs
+
+**Frontend**
+
+React • TypeScript
+
+**Databases**
+
+MySQL • MongoDB • Oracle
+
+**Tools**
+
+Docker • Git • GitHub • MLflow • Power BI
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/sarah-faleh
+- Email: sarafaleh76@gmail.com
