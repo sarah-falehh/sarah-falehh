@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%">
+<img src="banner.png" width="100%">
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
-<img src="assets/about.png" width="95%">
+<img src="about.png" width="95%">
 
 </p>
 
@@ -143,7 +143,7 @@ Interested in positions related to:
 
 <p align="center">
 
-<img src="assets/ai-stack.png" width="100%">
+<img src="ai-stack.png" width="100%">
 
 </p>
 
@@ -398,7 +398,7 @@ Agentic Workflows
 
 <p align="center">
 
-<img src="assets/projects.png" width="100%">
+<img src="projects.png" width="100%">
 
 </p>
 
@@ -625,7 +625,7 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="assets/github.png" width="100%">
+<img src="github.png" width="100%">
 
 </p>
 
@@ -750,7 +750,7 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="assets/roadmap.png" width="100%">
+<img src="roadmap.png" width="100%">
 
 </p>
 
