@@ -398,7 +398,7 @@ Agentic Workflows
 
 <p align="center">
 
-<img src="projects.png" width="100%">
+<img src="pojects.png" width="100%">
 
 </p>
 
