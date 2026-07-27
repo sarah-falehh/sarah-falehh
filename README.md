@@ -739,9 +739,7 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 # GitHub Analytics
 
 <p align="center">
-
-<img src="github.png" width="100%">
-
+  <img src="github.png" width="100%" alt="GitHub Analytics">
 </p>
 
 ---
@@ -750,15 +748,52 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 
 ## GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<a href="https://github.com/sarah-falehh">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Sarah Faleh GitHub statistics"
+  >
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<a href="https://github.com/sarah-falehh">
+  <img
+    width="36%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Sarah Faleh most used languages"
+  >
+</a>
 
 </div>
 
 ---
 
 <div align="center">
+
+## GitHub Streak
+
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=sarah-falehh&theme=tokyonight&hide_border=true"
+    alt="Sarah Faleh GitHub streak"
+  >
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="Sarah Faleh GitHub contribution graph"
+>
+
+</div>
 
 ## GitHub Streak
 
