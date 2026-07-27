@@ -536,7 +536,7 @@ Python • Deep Learning • OpenCV • NLP • Recommendation Systems
 
 <td>
 
-<img src="https://github.com/sarah-falehh/4DS-DEEP/raw/main/assets/banner.png">
+<img src="https://github.com/sarah-falehh/smartshop-ai/assets/banner.png">
 
 </td>
 
