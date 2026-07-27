@@ -100,6 +100,9 @@ Rather than developing isolated models, I focus on designing scalable AI platfor
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Business Intelligence
+- Data Analytics
+- Power BI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Natural Language Processing
@@ -310,6 +313,45 @@ Database Design
 - SQL Optimization
 
 - Entity Relationship Modeling
+
+---
+---
+
+## Business Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-Analytics-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Star_Schema-Data_Modeling-0A66C2?style=for-the-badge"/>
+
+</p>
+
+```text
+Power BI
+
+Power Query
+
+DAX
+
+Business Intelligence
+
+Interactive Dashboards
+
+Star Schema
+
+Data Modeling
+
+Executive Reporting
+
+ETL Pipelines
+
+KPI Development
+```
 
 ---
 
@@ -558,6 +600,51 @@ Python • Deep Learning • OpenCV • NLP • Recommendation Systems
 
 <td width="50%">
 
+---
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png">
+
+</td>
+
+<td width="50%">
+
+## ⚽ FIFA World Cup Analytics
+
+Business Intelligence Platform
+
+<img src="https://img.shields.io/badge/Status-Completed-success">
+
+### Overview
+
+Designed and developed an end-to-end Business Intelligence platform using Microsoft Power BI to analyze FIFA World Cup history through interactive dashboards, Star Schema modeling, Power Query ETL pipelines and DAX measures.
+
+### Highlights
+
+- Interactive Power BI Dashboards
+- Star Schema Data Modeling
+- Power Query ETL
+- DAX KPIs
+- Team & Player Analytics
+- Historical Tournament Analysis
+- Geographic Visualizations
+- World Cup Prediction Dashboard
+
+### Technologies
+
+Power BI • Power Query • DAX • Star Schema • ETL • Business Intelligence
+
+</td>
+
+</tr>
+
+</table>
+
 ## 🩺 Psychologist Appointment Platform
 
 Healthcare Web Platform
@@ -597,6 +684,7 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 | Domain | Projects |
 |---------|----------|
 | 🤖 Artificial Intelligence | 4 |
+| 📊 Business Intelligence | 1 |
 | 🧠 Large Language Models | 1 |
 | 📄 Retrieval-Augmented Generation | 1 |
 | 🖼 Computer Vision | 1 |
@@ -613,6 +701,14 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,mongodb,mysql,sqlite,git"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
 
 </p>
 
@@ -804,6 +900,10 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 
 ✔ Software Engineering Projects
 
+✔ Business Intelligence Dashboards
+
+✔ Data Analytics Platforms
+
 ---
 
 # Research Interests
@@ -895,6 +995,10 @@ My projects typically include:
 - Intelligent Document Processing
 - Interactive Dashboards
 - End-to-End AI Systems
+-  Business Intelligence Dashboards
+- Interactive Power BI Reports
+- Data Modeling
+- Executive KPI Reporting
 
 ---
 
@@ -910,6 +1014,8 @@ My projects typically include:
 ███████████████████░░░░░  AI Agents
 
 ██████████████████░░░░░░  MLOps
+
+██████████████████░░░░  Business Intelligence
 
 █████████████████░░░░░░░  Software Engineering
 
