@@ -739,87 +739,75 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 # GitHub Analytics
 
 <p align="center">
-  <img src="github.png" width="100%" alt="GitHub Analytics">
+  <img
+    src="github.png"
+    width="100%"
+    alt="GitHub Analytics"
+  >
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">GitHub Statistics</h2>
 
-## GitHub Statistics
-
-<a href="https://github.com/sarah-falehh">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Sarah Faleh GitHub statistics"
-  >
-</a>
-
-<a href="https://github.com/sarah-falehh">
-  <img
-    width="36%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Sarah Faleh most used languages"
-  >
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/sarah-falehh">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      alt="Sarah Faleh GitHub statistics"
+    >
+  </a>
+  <a href="https://github.com/sarah-falehh">
+    <img
+      width="37%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+      alt="Sarah Faleh most used languages"
+    >
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">GitHub Streak</h2>
 
-## GitHub Streak
-
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=sarah-falehh&theme=tokyonight&hide_border=true"
-    alt="Sarah Faleh GitHub streak"
-  >
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true&area=true"
-  width="95%"
-  alt="Sarah Faleh GitHub contribution graph"
->
-
-</div>
-
-## GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=sarah-falehh&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      width="70%"
+      src="https://streak-stats.demolab.com?user=sarah-falehh&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"
+      alt="Sarah Faleh GitHub streak"
+    >
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">Contribution Activity</h2>
 
-## Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/sarah-falehh">
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true&area=true&custom_title=Sarah%20Faleh%27s%20Contribution%20Graph"
+      alt="Sarah Faleh contribution activity graph"
+    >
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">GitHub Trophies</h2>
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarah-falehh&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/sarah-falehh">
+    <img
+      width="95%"
+      src="https://github-profile-trophy.vercel.app/?username=sarah-falehh&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"
+      alt="Sarah Faleh GitHub trophies"
+    >
+  </a>
+</p>
 
 ---
 
