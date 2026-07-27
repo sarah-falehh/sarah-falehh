@@ -445,26 +445,24 @@ Agentic Workflows
 </p>
 
 ---
-
 # Enterprise AI Portfolio
 
-Over the past few years, I've designed and developed multiple end-to-end AI applications covering Machine Learning, Large Language Models, Retrieval-Augmented Generation, Computer Vision, MLOps and Full-Stack Software Engineering.
+Over the past few years, I've designed and developed multiple end-to-end applications covering Machine Learning, Large Language Models, Retrieval-Augmented Generation, Computer Vision, MLOps, Business Intelligence and Full-Stack Software Engineering.
 
 Each project was built to solve a real-world problem while following production-oriented software engineering practices.
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌍 EcoLingua
 
-Enterprise Multilingual RAG Platform
+**Enterprise Multilingual RAG Platform**
 
-<img src="https://img.shields.io/badge/Status-Completed-success">
+<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
 
 ### Overview
 
@@ -489,35 +487,45 @@ Python • Streamlit • FAISS • Sentence Transformers • Scikit-Learn • SQ
 
 </td>
 
-<td>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github.com/sarah-falehh/Eco-Lingua/raw/main/assets/banner.png">
+<a href="https://github.com/sarah-falehh/Eco-Lingua">
+<img
+  src="https://github.com/sarah-falehh/Eco-Lingua/raw/main/assets/banner.png"
+  alt="EcoLingua"
+  width="95%"
+>
+</a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github.com/sarah-falehh/water-quality-mlops-pipeline/raw/main/assets/banner.png">
+<a href="https://github.com/sarah-falehh/water-quality-mlops-pipeline">
+<img
+  src="https://github.com/sarah-falehh/water-quality-mlops-pipeline/raw/main/assets/banner.png"
+  alt="Water Quality MLOps"
+  width="95%"
+>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💧 Water Quality MLOps
 
-Production Machine Learning Pipeline
+**Production Machine Learning Pipeline**
 
-<img src="https://img.shields.io/badge/Status-Completed-success">
+<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
 
 ### Overview
 
@@ -540,22 +548,20 @@ Python • FastAPI • MLflow • Docker • Scikit-Learn
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 SmartShop AI
 
-Retail Intelligence Platform
+**Retail Intelligence Platform**
 
-<img src="https://img.shields.io/badge/Status-Completed-success">
+<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
 
 ### Overview
 
@@ -576,64 +582,59 @@ Python • Deep Learning • OpenCV • NLP • Recommendation Systems
 
 </td>
 
-<td>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github.com/sarah-falehh/smartshop-ai/raw/main/assets/banner.png">
+<a href="https://github.com/sarah-falehh/smartshop-ai">
+<img
+  src="https://github.com/sarah-falehh/smartshop-ai/raw/main/assets/banner.png"
+  alt="SmartShop AI"
+  width="95%"
+>
+</a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td>
+<td width="50%" align="center" valign="middle">
 
-<img src="https://github.com/sarah-falehh/psychologist-appointment-platform/raw/main/assets/banner.png">
-
-</td>
-
-<td width="50%">
-
----
-
-<table>
-
-<tr>
-
-<td align="center" width="50%">
-
+<a href="https://github.com/sarah-falehh/powerbi-worldcup">
 <img
-src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png"
-width="95%"
-alt="FIFA World Cup Analytics">
+  src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png"
+  alt="FIFA World Cup Analytics"
+  width="95%"
+>
+</a>
 
 </td>
+
+<td width="50%" valign="top">
 
 ## ⚽ FIFA World Cup Analytics
 
-Business Intelligence Platform
+**Business Intelligence Platform**
 
-<img src="https://img.shields.io/badge/Status-Completed-success">
+<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
 
 ### Overview
 
-Designed and developed an end-to-end Business Intelligence platform using Microsoft Power BI to analyze FIFA World Cup history through interactive dashboards, Star Schema modeling, Power Query ETL pipelines and DAX measures.
+Designed and developed an end-to-end Business Intelligence platform using Microsoft Power BI to analyse FIFA World Cup history through interactive dashboards, Star Schema modelling, Power Query ETL pipelines and DAX measures.
 
 ### Highlights
 
 - Interactive Power BI Dashboards
-- Star Schema Data Modeling
+- Star Schema Data Modelling
 - Power Query ETL
 - DAX KPIs
 - Team & Player Analytics
 - Historical Tournament Analysis
-- Geographic Visualizations
+- Geographic Visualisations
 - World Cup Prediction Dashboard
 
 ### Technologies
@@ -643,23 +644,29 @@ Power BI • Power Query • DAX • Star Schema • ETL • Business Intelligen
 </td>
 
 </tr>
-
 </table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🩺 Psychologist Appointment Platform
 
-Healthcare Web Platform
+**Healthcare Web Platform**
 
-<img src="https://img.shields.io/badge/Status-Completed-success">
+<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
 
 ### Overview
 
-Designed and developed a multilingual healthcare platform allowing patients to book appointments, communicate securely with psychologists and manage consultations online.
+Designed and developed a multilingual healthcare platform allowing patients to request appointments, communicate through a dedicated messaging space and manage consultations online.
 
 ### Highlights
 
 - Appointment Booking
-- Secure Messaging
+- Private Messaging
 - Patient Dashboard
 - Admin Dashboard
 - Multilingual Interface
@@ -672,8 +679,19 @@ Python • Flask • SQLite • HTML • CSS • JavaScript
 
 </td>
 
-</tr>
+<td width="50%" align="center" valign="middle">
 
+<a href="https://github.com/sarah-falehh/psychologist-appointment-platform">
+<img
+  src="https://github.com/sarah-falehh/psychologist-appointment-platform/raw/main/assets/banner.png"
+  alt="Psychologist Appointment Platform"
+  width="95%"
+>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ---
