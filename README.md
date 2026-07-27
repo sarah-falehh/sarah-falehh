@@ -608,11 +608,11 @@ Python • Deep Learning • OpenCV • NLP • Recommendation Systems
 
 <td>
 
-<img src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png">
+<img src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png"
+     width="100%"
+     height="220">
 
 </td>
-
-<td width="50%">
 
 ## ⚽ FIFA World Cup Analytics
 
