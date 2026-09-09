@@ -217,7 +217,7 @@ Structured Observations
 
 <a href="https://github.com/sarah-falehh/fx-alphalabs">
   <img
-    src="https://github.com/sarah-falehh/fx-alphalabs/raw/main/docs/assets/readme/fx-alphalab-banner.png"
+    src="https://github.com/sarah-falehh/fx-alphalabs/raw/main/assests/fx-alphalab-banner.png"
     alt="FX AlphaLab"
     width="100%"
   >
