@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="banner.png" width="100%">
-
-<br>
+<img src="banner.png" width="100%" alt="Sarah Faleh — Applied AI Engineer">
 
 # Sarah Faleh
 
-### AI Software Engineer • Machine Learning • LLM Engineering • Retrieval-Augmented Generation
+### Final-Year Data Science & AI Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3200&pause=1200&color=5FA8FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Applications;Machine+Learning+Engineer;LLM+%26+RAG+Developer;Full-Stack+AI+Engineer;Always+Learning+Always+Building"/>
+**Applied AI · NLP · Document Intelligence · RAG · AI Agents · ML Engineering**
 
 <br>
 
-<a href="https://github.com/sarah-falehh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sarah-faleh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:sarah.faleh.ai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/sarah-falehh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sarah-falehh&style=for-the-badge&color=4C7EF3"/>
+<a href="mailto:sarafaleh76@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+**Available for a 6-month Final-Year Internship (PFE) in France · January 2027**
 
 </div>
 
@@ -32,1073 +32,461 @@
 
 # About Me
 
-<p align="center">
+I'm a final-year **Data Science & Artificial Intelligence Engineering student at ESPRIT** interested in building reliable AI systems from data processing to deployable applications.
 
-<img src="about.png" width="95%">
+My main interests are:
 
-</p>
+- **NLP & Document Intelligence**
+- **Retrieval-Augmented Generation**
+- **AI Agents & Multi-Agent Systems**
+- **Information Retrieval & Embeddings**
+- **Machine Learning Engineering**
+- **FastAPI & AI Backend Development**
+- **MLOps & Reproducible Evaluation**
+
+I particularly enjoy projects where the challenge is not only training a model, but designing the complete system around it:
+
+```text
+Data
+  ↓
+Processing / Retrieval
+  ↓
+AI / ML
+  ↓
+Evaluation
+  ↓
+API
+  ↓
+Application
+```
+
+I work mainly with **Python**, and I care about making AI systems measurable, testable and understandable rather than simply adding model complexity.
 
 ---
 
-```python
-class SarahFaleh:
+# Technical Stack
 
-    def __init__(self):
+## Applied AI
 
-        self.role = "AI Software Engineer"
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-        self.education = "Final-Year AI Engineering Student"
-
-        self.location = "Tunisia 🇹🇳"
-
-        self.languages = [
-            "Arabic",
-            "French",
-            "English"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Large Language Models",
-            "Retrieval-Augmented Generation",
-            "Natural Language Processing",
-            "Computer Vision",
-            "MLOps",
-            "Software Engineering"
-        ]
-
-        self.current_focus = [
-            "Enterprise AI",
-            "AI Agents",
-            "LangGraph",
-            "Advanced RAG",
-            "Generative AI"
-        ]
-
-    def mission(self):
-
-        return "Design intelligent AI products that solve real-world problems."
-
-me = SarahFaleh()
+```text
+Machine Learning
+Deep Learning
+NLP
+BERT
+LLMs
+RAG
+Embeddings
+Information Retrieval
+AI Agents
+Multi-Agent Systems
 ```
 
 ---
 
-## Who Am I?
+## Data & ML Engineering
 
-I'm a final-year Artificial Intelligence Engineering student passionate about transforming research ideas into production-ready AI applications.
-
-I enjoy building complete intelligent systems combining Machine Learning, Deep Learning, Large Language Models, Retrieval-Augmented Generation, MLOps and modern Software Engineering.
-
-Rather than developing isolated models, I focus on designing scalable AI platforms integrating backend development, intelligent retrieval, user interfaces and production deployment.
-
----
-
-## Areas of Expertise
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Business Intelligence
-- Data Analytics
-- Power BI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Computer Vision
-- MLOps
-- REST APIs
-- Full-Stack AI Applications
-
----
-
-## Currently Exploring
-
-- Multi-Agent Systems
-- LangGraph
-- Advanced RAG Pipelines
-- Fine-Tuning LLMs
-- Knowledge Graphs
-- AI Product Engineering
-
----
-
-## Looking For
-
-🎯 End-of-Studies Internship (France)
-
-Interested in positions related to:
-
-- AI Engineering
-- Machine Learning
-- Data Science
-- LLM Engineering
-- NLP
-- Computer Vision
-
----
-
-> **"Great AI isn't only about building models—it's about engineering intelligent systems that create real impact."**
-
----
-# AI & Software Engineering Stack
-
-<p align="center">
-
-<img src="ai-stack.png" width="100%">
-
-</p>
-
----
-
-## Artificial Intelligence
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
-
-</p>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Ensemble Methods
-- Regression
-- Classification
-- Clustering
-- Cross Validation
-- Hyperparameter Optimization
-
-</td>
-
-<td width="50%">
-
-### Deep Learning
-
-- Neural Networks
-- CNN
-- Transfer Learning
-- Computer Vision
-- Image Classification
-- Image Segmentation
-- Object Detection
-- Representation Learning
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Large Language Models
-
-<div align="center">
-
-| Technology | Experience |
-|------------|------------|
-| GPT Models | ⭐⭐⭐⭐⭐ |
-| Retrieval-Augmented Generation | ⭐⭐⭐⭐⭐ |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| Semantic Search | ⭐⭐⭐⭐⭐ |
-| Vector Search | ⭐⭐⭐⭐☆ |
-| Embeddings | ⭐⭐⭐⭐☆ |
-| Document Intelligence | ⭐⭐⭐⭐⭐ |
-| Information Extraction | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-
-## Natural Language Processing
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ```text
-Named Entity Recognition
-Sentence Classification
-Topic Extraction
-Language Detection
-Keyword Extraction
-Document Chunking
-Semantic Retrieval
-Text Classification
-Multilingual Processing
-Information Extraction
-```
-
----
-
-## AI Frameworks
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,opencv,fastapi,flask,docker,git"/>
-
-</p>
-
----
-
-## LLM Engineering
-
-✔ Prompt Engineering
-
-✔ Retrieval-Augmented Generation
-
-✔ Semantic Search
-
-✔ Embedding Models
-
-✔ FAISS Vector Search
-
-✔ Knowledge Base Construction
-
-✔ Contextual Retrieval
-
-✔ Document Intelligence
-
-✔ Enterprise AI Applications
-
----
-
-## Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi"/>
-
-</p>
-
-```text
-REST APIs
-Authentication
-Role Management
-Session Management
-Database Design
-CRUD Applications
-API Development
-Production Deployment
-```
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres"/>
-
-</p>
-
-Experienced with
-
-- SQLite
-- MySQL
-- PostgreSQL
-- MongoDB
-
-Database Design
-
-- Relational Databases
-
-- NoSQL
-
-- SQL Optimization
-
-- Entity Relationship Modeling
-
----
----
-
-## Business Intelligence
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-Analytics-6A1B9A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Star_Schema-Data_Modeling-0A66C2?style=for-the-badge"/>
-
-</p>
-
-```text
-Power BI
-
-Power Query
-
-DAX
-
-Business Intelligence
-
-Interactive Dashboards
-
-Star Schema
-
-Data Modeling
-
-Executive Reporting
-
-ETL Pipelines
-
-KPI Development
-```
-
----
-
-## MLOps
-
-```text
-Model Training
-
+Pandas
+NumPy
+Scikit-learn
+XGBoost
+MLflow
+Pytest
+Regression Testing
 Model Evaluation
-
-Experiment Tracking
-
-FastAPI Deployment
-
-Docker
-
-Production APIs
-
-Model Monitoring
-
-ML Pipelines
 ```
 
 ---
 
-## Software Engineering
+## Backend & Software Engineering
 
-<p align="center">
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+```text
+FastAPI
+REST APIs
+Docker
+Docker Compose
+Git
+GitHub Actions
+CI/CD
+Linux
+Flask
+```
 
-</p>
+---
 
-- Clean Architecture
+## Databases & Search
 
-- Modular Design
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-- Version Control
+```text
+SQL
+PostgreSQL
+MySQL
+MongoDB
+SQLite
+Elasticsearch
+FAISS
+```
 
-- Agile Development
+---
 
-- REST APIs
+# Featured Projects
 
-- Software Documentation
+## EconIA — Multilingual Economic Document Intelligence
 
-- Testing
+<a href="https://github.com/sarah-falehh/econIA">
+  <img
+    src="https://github.com/sarah-falehh/econIA/raw/main/docs/assets/diagrams/banner.png"
+    alt="EconIA"
+    width="100%"
+  >
+</a>
 
-- Maintainability
+**Multilingual economic information extraction in French, Arabic and English.**
+
+EconIA converts PDF, CSV and text-based economic reports into structured, atomic and traceable observations.
+
+### Core architecture
+
+```text
+Document
+   ↓
+Structure Detection
+   ↓
+Atomic Segmentation
+   ↓
+Economic Ontology
+   ↓
+Semantic Binding
+   ↓
+Temporal / Context Resolution
+   ↓
+Validation & Numerical Reconciliation
+   ↓
+Structured Observations
+```
+
+### Engineering highlights
+
+- deterministic and lightweight NLP;
+- economic indicator ontology;
+- indicator-value-period-unit-geography binding;
+- geometry-aware PDF table processing;
+- French / Arabic / English processing;
+- Arabic RTL normalization;
+- confidence and validation workflow;
+- numerical coverage and provenance;
+- human review;
+- time-series reconstruction;
+- regression testing.
+
+### Current evaluation
+
+- **225 / 225 regression tests passing**
+- **14 TP · 0 FP · 0 FN** on the current frozen 14-event GOLD benchmark
+- **100% Precision / Recall / F1 / Event Exact Match** on that small benchmark only
+- Arabic validation runs producing **32 and 44 extracted events**
+- CPU-friendly execution
+
+> The current GOLD benchmark is intentionally small. These results do not imply universal extraction accuracy on unseen documents.
+
+**Tech:** Python · NLP · Scikit-learn · PyMuPDF · pandas · Streamlit · Plotly · SQLite · Pytest
+
+[View EconIA →](https://github.com/sarah-falehh/econIA)
+
+---
+
+## FX AlphaLab — Multi-Agent Financial Intelligence
+
+<a href="https://github.com/sarah-falehh/fx-alphalabs">
+  <img
+    src="https://github.com/sarah-falehh/fx-alphalabs/raw/main/docs/assets/readme/fx-alphalab-banner.png"
+    alt="FX AlphaLab"
+    width="100%"
+  >
+</a>
+
+Five-month collaborative project developed by a **six-person engineering team in collaboration with VALUE**.
+
+I contributed as one of the project's **Solution Architects**, focusing on architectural coherence and integration between the data, AI and application layers.
+
+### Architecture
+
+```text
+Market Data
+Macro Data
+News / Sentiment
+      ↓
+Unified Data Layer
+      ↓
+Technical Agent
+Macro Agent
+Sentiment Agent
+      ↓
+Central Orchestrator
+      ↓
+Conviction / Validation
+      ↓
+FastAPI
+      ↓
+Dashboard
+```
+
+The broader architecture also includes an **AlphaBot contextual retrieval component** using RAG.
+
+### Highlights
+
+- 200,000+ rows of integrated financial data;
+- specialized analytical agents;
+- central orchestration;
+- contextual retrieval and RAG;
+- embeddings;
+- FastAPI;
+- REST APIs;
+- WebSocket communication;
+- MLflow;
+- Docker;
+- historical backtesting.
+
+> FX AlphaLab is a financial-intelligence prototype. It did not perform live real-money trading and does not claim validated real-world alpha.
+
+**Tech:** Python · FastAPI · RAG · Embeddings · AI Agents · MLflow · Docker · React · TypeScript
+
+[View FX AlphaLab →](https://github.com/sarah-falehh/fx-alphalabs)
+
+---
+
+## SmartShop AI — Multimodal E-Commerce AI
+
+<a href="https://github.com/sarah-falehh/smartshop-ai">
+  <img
+    src="https://github.com/sarah-falehh/smartshop-ai/raw/main/assets/banner.png"
+    alt="SmartShop AI"
+    width="100%"
+  >
+</a>
+
+Multimodal e-commerce project integrating **six AI modules**:
+
+- accessible product captioning;
+- image enhancement;
+- multimodal recommendation;
+- product categorization;
+- Aspect-Based Sentiment Analysis;
+- RAG shopping assistant.
+
+### Selected results
+
+| Task | Result |
+|---|---:|
+| Product Categorization | **86% Accuracy** |
+| ABSA | **81.5% Macro F1** |
+| RAG Retrieval | **91.7% Hit Rate** |
+
+The RAG retrieval score measures the **retrieval stage**, not final chatbot-answer correctness.
+
+**Tech:** BERT · Sentence-BERT · Llama 3.1 8B · Groq · FAISS · EfficientNet · ResNet · PyTorch
+
+[View SmartShop AI →](https://github.com/sarah-falehh/smartshop-ai)
+
+---
+
+## Water Quality — End-to-End MLOps Pipeline
+
+<a href="https://github.com/sarah-falehh/water-quality-prediction-mlops">
+  <img
+    src="https://github.com/sarah-falehh/water-quality-prediction-mlops/raw/main/assets/banner.png"
+    alt="Water Quality MLOps"
+    width="100%"
+  >
+</a>
+
+ML engineering project built around a Random Forest water-potability classifier.
+
+The model itself shows significant overfitting:
+
+```text
+Training accuracy = 100%
+Test accuracy     ≈ 66.8%
+```
+
+The project is therefore mainly used to demonstrate the **engineering lifecycle around an ML model**.
+
+### Engineering coverage
+
+- FastAPI model serving;
+- REST API;
+- Pydantic validation;
+- MLflow experiment tracking;
+- Docker / Docker Compose;
+- Elasticsearch / Kibana;
+- GitHub Actions;
+- Pytest;
+- Black / Flake8 / Bandit;
+- model retraining endpoint.
+
+**Tech:** Python · Scikit-learn · FastAPI · MLflow · Docker · GitHub Actions · Elasticsearch · Kibana
+
+[View Water Quality MLOps →](https://github.com/sarah-falehh/water-quality-prediction-mlops)
+
+---
+
+# Additional Projects
+
+### FIFA World Cup Analytics
+
+Business Intelligence project using:
+
+**Power BI · Power Query · DAX · Star Schema · ETL**
+
+Interactive dashboards for historical World Cup analysis, teams, players and tournament KPIs.
+
+---
+
+### Multilingual Appointment Platform
+
+Python / Flask web application with:
+
+- authentication;
+- appointment management;
+- patient and admin spaces;
+- messaging;
+- multilingual interface;
+- notifications.
+
+**Tech:** Flask · SQLite · HTML · CSS · JavaScript
+
+---
+
+# Engineering Principles
+
+Across my projects, I try to follow a few simple principles:
+
+### Measure before claiming
+
+A metric should always be associated with its evaluation protocol and scope.
+
+### Keep limitations visible
+
+A weak model, small benchmark or prototype limitation should be documented rather than hidden.
+
+### Separate concerns
+
+```text
+Data
+≠
+Model
+≠
+Retrieval
+≠
+API
+≠
+Application
+```
+
+### Prefer appropriate architecture over unnecessary complexity
+
+A large LLM is not automatically the right solution for every AI problem.
+
+### Make systems testable
+
+Regression tests, evaluation datasets and reproducible pipelines are part of the AI system.
+
+---
+
+# Currently Exploring
+
+I'm currently strengthening my knowledge in:
+
+- AI Agents;
+- Multi-Agent Systems;
+- LangGraph;
+- advanced RAG evaluation;
+- retrieval and reranking;
+- production AI architecture.
+
+These are areas I am actively learning and experimenting with, not technologies I claim to have fully mastered.
+
+---
+
+# Education
+
+### ESPRIT
+
+**Engineering Degree in Computer Science**  
+Data Science & Artificial Intelligence specialization
+
+**2022 — 2027**
+
+Relevant coursework:
+
+```text
+Machine Learning
+Deep Learning
+Statistics
+NLP
+Data Science
+MLOps
+Software Engineering
+Databases
+```
 
 ---
 
 # Languages
 
 | Language | Level |
-|----------|-------|
-| 🇬🇧 English | Professional |
-| 🇫🇷 French | Professional |
-| 🇹🇳 Arabic | Native |
+|---|---|
+| Arabic | Native |
+| French | C1 |
+| English | C1 |
 
 ---
 
-# Currently Learning
-
-```text
-LangGraph
-
-AI Agents
-
-Multi-Agent Systems
-
-MCP
-
-Advanced RAG
-
-Knowledge Graphs
-
-Fine-Tuning
-
-Enterprise AI
-
-Agentic Workflows
-```
-
----
-# Featured AI Projects
+# GitHub Activity
 
 <p align="center">
 
-<img src="pojects.png" width="100%">
-
-</p>
-
----
-# Enterprise AI Portfolio
-
-Over the past few years, I've designed and developed multiple end-to-end applications covering Machine Learning, Large Language Models, Retrieval-Augmented Generation, Computer Vision, MLOps, Business Intelligence and Full-Stack Software Engineering.
-
-Each project was built to solve a real-world problem while following production-oriented software engineering practices.
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌍 EcoLingua
-
-**Enterprise Multilingual RAG Platform**
-
-<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
-
-### Overview
-
-An enterprise AI platform designed for multilingual economic intelligence.
-
-The system combines LLMs, RAG, semantic retrieval and NLP to transform large collections of economic documents into searchable knowledge bases.
-
-### Highlights
-
-- Multilingual Document Processing
-- PDF & CSV Ingestion
-- Retrieval-Augmented Generation
-- Semantic Search
-- Named Entity Recognition
-- Trend Detection
-- Knowledge Base Construction
-- Interactive Dashboards
-
-### Technologies
-
-Python • Streamlit • FAISS • Sentence Transformers • Scikit-Learn • SQLite • NLP • LLMs
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://github.com/sarah-falehh/Eco-Lingua">
 <img
-  src="https://github.com/sarah-falehh/Eco-Lingua/raw/main/assets/banner.png"
-  alt="EcoLingua"
-  width="95%"
->
-</a>
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  alt="Sarah Faleh GitHub statistics"
+/>
 
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://github.com/sarah-falehh/water-quality-mlops-pipeline">
 <img
-  src="https://github.com/sarah-falehh/water-quality-mlops-pipeline/raw/main/assets/banner.png"
-  alt="Water Quality MLOps"
-  width="95%"
->
-</a>
+  width="39%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Sarah Faleh languages"
+/>
 
-</td>
+</p>
 
-<td width="50%" valign="top">
+<p align="center">
 
-## 💧 Water Quality MLOps
-
-**Production Machine Learning Pipeline**
-
-<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
-
-### Overview
-
-Designed a complete production-ready Machine Learning pipeline capable of predicting water potability through REST APIs.
-
-### Highlights
-
-- FastAPI
-- MLflow
-- Docker
-- Swagger API
-- Automated Retraining
-- Model Versioning
-- Production Deployment
-
-### Technologies
-
-Python • FastAPI • MLflow • Docker • Scikit-Learn
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 SmartShop AI
-
-**Retail Intelligence Platform**
-
-<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
-
-### Overview
-
-An AI-powered shopping assistant integrating Computer Vision, Recommendation Systems and Natural Language Processing to improve customer experience.
-
-### Highlights
-
-- Product Recommendation
-- Sentiment Analysis
-- Defect Detection
-- AI Assistant
-- Intelligent Categorization
-- Customer Analytics
-
-### Technologies
-
-Python • Deep Learning • OpenCV • NLP • Recommendation Systems
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://github.com/sarah-falehh/smartshop-ai">
 <img
-  src="https://github.com/sarah-falehh/smartshop-ai/raw/main/assets/banner.png"
-  alt="SmartShop AI"
   width="95%"
->
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://github.com/sarah-falehh/powerbi-worldcup">
-<img
-  src="https://github.com/sarah-falehh/powerbi-worldcup/raw/main/assets/banner.png"
-  alt="FIFA World Cup Analytics"
-  width="95%"
->
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚽ FIFA World Cup Analytics
-
-**Business Intelligence Platform**
-
-<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
-
-### Overview
-
-Designed and developed an end-to-end Business Intelligence platform using Microsoft Power BI to analyse FIFA World Cup history through interactive dashboards, Star Schema modelling, Power Query ETL pipelines and DAX measures.
-
-### Highlights
-
-- Interactive Power BI Dashboards
-- Star Schema Data Modelling
-- Power Query ETL
-- DAX KPIs
-- Team & Player Analytics
-- Historical Tournament Analysis
-- Geographic Visualisations
-- World Cup Prediction Dashboard
-
-### Technologies
-
-Power BI • Power Query • DAX • Star Schema • ETL • Business Intelligence
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🩺 Psychologist Appointment Platform
-
-**Healthcare Web Platform**
-
-<img src="https://img.shields.io/badge/Status-Completed-success" alt="Completed">
-
-### Overview
-
-Designed and developed a multilingual healthcare platform allowing patients to request appointments, communicate through a dedicated messaging space and manage consultations online.
-
-### Highlights
-
-- Appointment Booking
-- Private Messaging
-- Patient Dashboard
-- Admin Dashboard
-- Multilingual Interface
-- Authentication
-- Notifications
-
-### Technologies
-
-Python • Flask • SQLite • HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<a href="https://github.com/sarah-falehh/psychologist-appointment-platform">
-<img
-  src="https://github.com/sarah-falehh/psychologist-appointment-platform/raw/main/assets/banner.png"
-  alt="Psychologist Appointment Platform"
-  width="95%"
->
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Project Domains
-
-<div align="center">
-
-| Domain | Projects |
-|---------|----------|
-| 🤖 Artificial Intelligence | 4 |
-| 📊 Business Intelligence | 1 |
-| 🧠 Large Language Models | 1 |
-| 📄 Retrieval-Augmented Generation | 1 |
-| 🖼 Computer Vision | 1 |
-| ⚙ Machine Learning | 2 |
-| 🚀 MLOps | 1 |
-| 🌐 Full Stack Development | 2 |
-
-</div>
-
----
-
-# Favorite Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,mongodb,mysql,sqlite,git"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-6A1B9A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true&area=true&custom_title=Sarah%20Faleh%27s%20Contribution%20Graph"
+  alt="Sarah Faleh contribution activity"
+/>
 
 </p>
-
----
-
-> **"Every project is an opportunity to transform ideas into intelligent, scalable and impactful AI solutions."**
-
----
-# GitHub Analytics
-
-<p align="center">
-  <img
-    src="github.png"
-    width="100%"
-    alt="GitHub Analytics"
-  >
-</p>
-
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=sarah-falehh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Sarah Faleh GitHub statistics"
-  >
-  <img
-    width="38%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sarah-falehh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Sarah Faleh most used languages"
-  >
-</p>
-
----
-
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sarah-falehh&theme=tokyo-night&hide_border=true&area=true&custom_title=Sarah%20Faleh%27s%20Contribution%20Graph"
-    alt="Sarah Faleh contribution activity graph"
-  >
-</p>
-
----
-
-
-# Development Focus
-
-<div align="center">
-
-| AI | Backend | Data | Software |
-|:--:|:--:|:--:|:--:|
-| 🤖 | ⚙️ | 📊 | 💻 |
-
-</div>
-
----
-
-## Areas of Interest
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models
-- AI Engineering
-
----
-
-### Enterprise AI
-
-- Retrieval-Augmented Generation
-
-- Document Intelligence
-
-- Semantic Search
-
-- Vector Databases
-
-- AI Agents
-
-- Knowledge Graphs
-
----
-
-### Software Engineering
-
-- REST APIs
-
-- Backend Development
-
-- Authentication
-
-- Database Design
-
-- Docker
-
-- Production Systems
-
----
-
-### MLOps
-
-- Model Deployment
-
-- MLflow
-
-- FastAPI
-
-- Docker
-
-- Model Versioning
-
-- Monitoring
-
----
-
-# Current Learning Roadmap
-
-<p align="center">
-
-<img src="roadmap.png" width="100%">
-
-</p>
-
----
-
-## 2026 Learning Objectives
-
-```text
-███████████████████░░░  Machine Learning
-
-██████████████████░░░░  Deep Learning
-
-█████████████████░░░░░  Computer Vision
-
-██████████████████░░░░  NLP
-
-███████████████████░░░  RAG
-
-████████████████░░░░░░  LangGraph
-
-███████████████░░░░░░░  AI Agents
-
-██████████████░░░░░░░░  MCP
-
-█████████████░░░░░░░░░  Fine-Tuning
-
-██████████████░░░░░░░░  Enterprise AI
-```
-
----
-
-# What I'm Building
-
-✔ Enterprise AI Platforms
-
-✔ Machine Learning Systems
-
-✔ Retrieval-Augmented Generation
-
-✔ Intelligent Search Engines
-
-✔ Production APIs
-
-✔ MLOps Pipelines
-
-✔ Full-Stack AI Applications
-
-✔ AI Assistants
-
-✔ Data Science Solutions
-
-✔ Software Engineering Projects
-
-✔ Business Intelligence Dashboards
-
-✔ Data Analytics Platforms
-
----
-
-# Research Interests
-
-- Agentic AI
-
-- Large Language Models
-
-- Enterprise AI
-
-- Retrieval-Augmented Generation
-
-- Intelligent Document Processing
-
-- AI Product Engineering
-
-- Knowledge Graphs
-
-- Explainable AI
-
-- Human-AI Interaction
-
-- Scalable AI Systems
-
----
-
-# Philosophy
-
-> *"I believe that the future of Artificial Intelligence lies in building systems that are not only accurate, but also scalable, reliable and genuinely useful."*
-
----
-# Engineering Journey
-
-```text
-2022
-│
-├── Started Computer Science & AI Engineering
-│
-2023
-│
-├── Software Engineering
-├── Algorithms & Data Structures
-├── Databases
-├── Python Development
-│
-2024
-│
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── Data Engineering
-│
-2025
-│
-├── Production APIs
-├── MLOps
-├── Docker
-├── MLflow
-├── CI/CD
-│
-2026
-│
-├── Large Language Models
-├── Retrieval-Augmented Generation
-├── AI Agents
-├── Multi-Agent Systems
-├── Enterprise AI
-│
-2027
-│
-└── AI Engineer 🚀
-```
-
----
-
-# What I Build
-
-I enjoy building production-ready AI applications that combine modern Artificial Intelligence with robust Software Engineering.
-
-My projects typically include:
-
-- Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Pipelines
-- REST APIs
-- MLOps
-- Semantic Search
-- Intelligent Document Processing
-- Interactive Dashboards
-- End-to-End AI Systems
--  Business Intelligence Dashboards
-- Interactive Power BI Reports
-- Data Modeling
-- Executive KPI Reporting
-
----
-
-# Current Focus
-
-```text
-██████████████████████░░  AI Engineering
-
-█████████████████████░░░  Large Language Models
-
-████████████████████░░░░  Retrieval-Augmented Generation
-
-███████████████████░░░░░  AI Agents
-
-██████████████████░░░░░░  MLOps
-
-██████████████████░░░░  Business Intelligence
-
-█████████████████░░░░░░░  Software Engineering
-
-████████████████░░░░░░░░  Enterprise AI
-
-███████████████░░░░░░░░░  Knowledge Graphs
-
-██████████████░░░░░░░░░░  Fine-Tuning
-```
-
----
-
-# Professional Interests
-
-## Artificial Intelligence
-
-- Large Language Models
-- Agentic AI
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-
----
-
-## Enterprise AI
-
-- AI Automation
-- Multi-Agent Systems
-- Semantic Search
-- Vector Databases
-- Knowledge Bases
-- Intelligent Document Processing
-
----
-
-## Software Engineering
-
-- FastAPI
-- Flask
-- REST APIs
-- Docker
-- Production Deployment
-- Modular Architectures
-
----
-
-## Research Interests
-
-- Agentic AI
-- Enterprise LLM Systems
-- Retrieval-Augmented Generation
-- Intelligent Knowledge Retrieval
-- AI-assisted Decision Support
-- Human-AI Collaboration
-- Explainable AI
-- AI Product Engineering
-
----
-
-# Career Vision
-
-My ambition is to engineer AI systems that move beyond experimentation and deliver measurable value in production environments.
-
-I am particularly interested in designing scalable AI products that combine:
-
-- LLM Engineering
-- Multi-Agent Systems
-- Retrieval-Augmented Generation
-- Machine Learning
-- Automation
-- Modern Software Engineering
-
-with a strong emphasis on reliability, usability and real-world impact.
 
 ---
 
@@ -1106,42 +494,20 @@ with a strong emphasis on reliability, usability and real-world impact.
 
 <div align="center">
 
-<a href="https://github.com/sarah-falehh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+I'm currently looking for a **6-month PFE internship in Applied AI / Data & AI Engineering in France starting January 2027**.
+
+<br>
 
 <a href="https://www.linkedin.com/in/sarah-faleh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sarah_Faleh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:sarafaleh76@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-| Platform | Link |
-|:---------|:-----|
-| GitHub | **github.com/sarah-falehh** |
-| LinkedIn | **linkedin.com/in/sarah-faleh** |
-| Email | **sarafaleh76@gmail.com** |
-
-</div>
-
----
-
-<div align="center">
-
-## Thanks for visiting my profile!
-
-*"Building production-ready AI systems powered by Machine Learning, LLMs, AI Agents and modern Software Engineering."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:60A5FA&height=140&section=footer"/>
+**Building AI systems that are useful, measurable and technically defensible.**
 
 </div>
